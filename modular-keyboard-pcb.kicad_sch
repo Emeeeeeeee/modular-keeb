@@ -408,6 +408,371 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_Push"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 1.27 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Push"
+				(at 0 -1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Push button switch, generic, two pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Push_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Switch:SW_Wuerth_450301014042"
+			(pin_names
+				(offset 1)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_Wuerth_450301014042"
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
+				(at 0 -10.16 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" "https://www.we-online.com/components/products/datasheet/450301014042.pdf"
+				(at 0 -7.62 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Switch slide, single pole double throw"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "changeover single-pole opposite-side-connection double-throw spdt ON-ON"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "SW*Wuerth*WS*SLTV*10x2.5x6.4*P2.54mm*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Wuerth_450301014042_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_Wuerth_450301014042_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "marbastlib-promicroish:nice_nano"
 			(exclude_from_sim no)
 			(in_bom no)
@@ -1130,6 +1495,12 @@
 		(color 0 0 0 0)
 		(uuid "375c759b-2a76-468d-9bab-e2889bccc0f6")
 	)
+	(junction
+		(at 88.9 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ccf31a5e-0595-48b8-ba6f-e6c63014e4e6")
+	)
 	(no_connect
 		(at 48.26 59.69)
 		(uuid "3b6be96e-dded-4dbf-b099-f4bf6c6fbe79")
@@ -1137,6 +1508,10 @@
 	(no_connect
 		(at 69.85 34.29)
 		(uuid "7e067750-e73f-4036-aff2-c6e18670d128")
+	)
+	(no_connect
+		(at 69.85 24.13)
+		(uuid "a6a3f691-b7b3-435a-9fb8-81eaa36b38c9")
 	)
 	(no_connect
 		(at 45.72 59.69)
@@ -1147,8 +1522,8 @@
 		(uuid "c99c5785-945d-44ef-86ef-0b9a3a2d8b8f")
 	)
 	(no_connect
-		(at 69.85 31.75)
-		(uuid "eb6f9dd7-3166-4674-9c46-49aace403cac")
+		(at 31.75 24.13)
+		(uuid "ccab198d-9383-457c-aebb-6416ae0aa7b0")
 	)
 	(wire
 		(pts
@@ -1159,6 +1534,36 @@
 			(type default)
 		)
 		(uuid "005c814b-3c0e-40bf-b12f-64d2d9af51a3")
+	)
+	(wire
+		(pts
+			(xy 22.86 74.93) (xy 25.4 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "02171f4f-35bb-4818-a78d-7a0619f12173")
+	)
+	(wire
+		(pts
+			(xy 88.9 31.75) (xy 88.9 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d26d61d-fb0e-4b54-9667-f2e75386a2dd")
+	)
+	(wire
+		(pts
+			(xy 88.9 29.21) (xy 88.9 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4816a03a-6208-4273-ba8f-892f3316fe52")
 	)
 	(wire
 		(pts
@@ -1192,17 +1597,17 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 29.21) (xy 74.93 29.21)
+			(xy 69.85 29.21) (xy 88.9 29.21)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9fba4065-79bc-4f02-ba21-f3b6871cacf1")
+		(uuid "97ca3830-29f3-496f-952f-e549f72bef48")
 	)
 	(wire
 		(pts
-			(xy 33.02 74.93) (xy 35.56 74.93)
+			(xy 35.56 78.74) (xy 35.56 74.93)
 		)
 		(stroke
 			(width 0)
@@ -1239,6 +1644,16 @@
 			(type default)
 		)
 		(uuid "b849db27-1746-42bd-8287-cde8ae877a33")
+	)
+	(wire
+		(pts
+			(xy 78.74 31.75) (xy 69.85 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3c41086-d9aa-48b3-bdf1-c80db7806f6a")
 	)
 	(wire
 		(pts
@@ -1401,30 +1816,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "Bat+"
-		(shape input)
-		(at 35.56 72.39 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3e5926cb-1d05-433e-9c08-b9bc27eb3d15")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 27.8577 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
@@ -1681,6 +2072,30 @@
 		(uuid "9ff5c787-aa1c-418b-af3d-9bf668c9b836")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 62.2082 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "Bat+"
+		(shape input)
+		(at 25.4 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9ff715fc-d8ee-45e2-954a-4141987b1fe9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.6977 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2088,7 +2503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0763598d-2cf5-4502-bd53-d30f70b01805")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR07"
 			(at 69.85 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -2148,7 +2563,87 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 83.82 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0c6768da-875c-4384-9c39-a7c08de9b786")
+		(property "Reference" "SW1"
+			(at 83.82 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 83.82 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 83.82 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bb8a8067-230f-468d-9c4b-92ab16049657")
+		)
+		(pin "1"
+			(uuid "f25633cc-3fb1-4049-9d4f-625b48fffdc7")
+		)
+		(instances
+			(project "modular-keyboard-pcb"
+				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -2165,7 +2660,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cc8fb9e-3d7f-4476-b8d8-e2ab420a34bd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR02"
 			(at 19.05 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -2225,7 +2720,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -2243,7 +2738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1ac5efca-46b3-41b8-835c-2a5e01a219cd")
-		(property "Reference" "J?"
+		(property "Reference" "J3"
 			(at 78.74 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2265,7 +2760,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 76.2 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2316,7 +2811,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "J?")
+					(reference "J3")
 					(unit 1)
 				)
 			)
@@ -2335,7 +2830,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fd4d37c-3112-46be-be63-2b625113c41c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR06"
 			(at 43.18 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -2395,7 +2890,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -2413,7 +2908,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "610777bc-0817-4a20-b4a2-dcedb7b4b7d7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR05"
 			(at 59.69 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2473,7 +2968,90 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR05")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Wuerth_450301014042")
+		(at 30.48 72.39 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72901e2f-7714-4951-ad80-c604dfb7e675")
+		(property "Reference" "SW2"
+			(at 30.48 63.5 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Wuerth_450301014042"
+			(at 30.48 66.04 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm"
+			(at 30.48 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/450301014042.pdf"
+			(at 30.48 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Switch slide, single pole double throw"
+			(at 30.48 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d23733a3-d591-4a07-bbce-f7f8dba74e94")
+		)
+		(pin "3"
+			(uuid "df47b120-76e7-40b6-be14-1cfce8b97cf7")
+		)
+		(pin "1"
+			(uuid "f1e644b5-09ca-4e21-a0da-f98068fc6813")
+		)
+		(instances
+			(project "modular-keyboard-pcb"
+				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
+					(reference "SW2")
 					(unit 1)
 				)
 			)
@@ -2492,7 +3070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "79f9e9e2-aecc-4219-8dc0-3b6c5e095d86")
-		(property "Reference" "J?"
+		(property "Reference" "J2"
 			(at 34.29 110.4899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2514,7 +3092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 36.83 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -2565,7 +3143,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "J?")
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -2573,7 +3151,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 33.02 74.93 0)
+		(at 35.56 78.74 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2583,8 +3161,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89787003-b0f1-44ec-b036-bae4aef3c5d4")
-		(property "Reference" "#PWR?"
-			(at 33.02 81.28 0)
+		(property "Reference" "#PWR03"
+			(at 35.56 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2595,7 +3173,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 33.02 80.01 0)
+			(at 35.56 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2605,7 +3183,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 33.02 74.93 0)
+			(at 35.56 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2616,7 +3194,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 33.02 74.93 0)
+			(at 35.56 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2627,7 +3205,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 33.02 74.93 0)
+			(at 35.56 78.74 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2643,7 +3221,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -2651,7 +3229,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 74.93 29.21 0)
+		(at 88.9 34.29 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2660,8 +3238,8 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fdff9b4-ab76-41fe-8abe-3ca2fbe65d83")
-		(property "Reference" "#PWR?"
-			(at 74.93 35.56 0)
+		(property "Reference" "#PWR01"
+			(at 88.9 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2672,7 +3250,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 32.258 0)
+			(at 88.9 37.338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2682,7 +3260,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 74.93 29.21 0)
+			(at 88.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2693,7 +3271,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 74.93 29.21 0)
+			(at 88.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2704,7 +3282,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 74.93 29.21 0)
+			(at 88.9 34.29 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2720,7 +3298,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2739,7 +3317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc5efd83-ae9d-420f-b694-bb41c6ff759f")
-		(property "Reference" "J?"
+		(property "Reference" "J4"
 			(at 34.29 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2761,7 +3339,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 36.83 127 0)
 			(hide yes)
 			(show_name no)
@@ -2812,7 +3390,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "J?")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -2831,7 +3409,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3726d78-99d6-4189-ac64-9c210c45466b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR04"
 			(at 53.34 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2891,7 +3469,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR?")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -2909,7 +3487,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d591779e-b6aa-4b81-b72d-d912fed9581b")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 50.8 16.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3052,7 +3630,85 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "U?")
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 22.86 74.93 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dc2f33cc-2ff0-47e7-bdfd-f99124cf0161")
+		(property "Reference" "#PWR08"
+			(at 22.86 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 22.86 80.01 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 22.86 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 22.86 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 22.86 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0a70a2d2-6b1a-4734-8adb-65db4f2c2597")
+		)
+		(instances
+			(project "modular-keyboard-pcb"
+				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -3070,7 +3726,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e230c780-5cd6-4577-9de5-6196781a83f6")
-		(property "Reference" "J?"
+		(property "Reference" "J5"
 			(at 78.74 126.9999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3092,7 +3748,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 76.2 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -3143,7 +3799,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "J?")
+					(reference "J5")
 					(unit 1)
 				)
 			)
@@ -3161,7 +3817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e32d1cb7-159d-41b1-bd75-ca4f7faaa1db")
-		(property "Reference" "J?"
+		(property "Reference" "J1"
 			(at 43.18 72.3899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3183,7 +3839,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 			(at 40.64 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -3225,7 +3881,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "J?")
+					(reference "J1")
 					(unit 1)
 				)
 			)
