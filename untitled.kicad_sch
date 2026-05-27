@@ -3419,7 +3419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01189bfa-4ddc-49bf-a981-acb31b2edc76")
-		(property "Reference" "MX56"
+		(property "Reference" "MX?"
 			(at 157.48 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3481,7 +3481,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX56")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -3499,7 +3499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "012daa8e-8d41-4860-bc1d-667187380d81")
-		(property "Reference" "D42"
+		(property "Reference" "D?"
 			(at 173.99 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3585,7 +3585,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D42")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -3603,7 +3603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "01bc3a90-bb46-4e8d-ac05-ec1ab03f6abf")
-		(property "Reference" "D8"
+		(property "Reference" "D?"
 			(at 128.27 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3689,7 +3689,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D8")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -3707,7 +3707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02550293-f564-4ce9-9d81-5b705ee95125")
-		(property "Reference" "MX34"
+		(property "Reference" "MX?"
 			(at 77.47 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3769,7 +3769,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX34")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -3787,7 +3787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0313dddd-a2cb-40bb-b807-12d03a23dfdf")
-		(property "Reference" "MX82"
+		(property "Reference" "MX?"
 			(at 203.2 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3849,7 +3849,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX82")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -3867,7 +3867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0321d9a2-01f8-40db-9fb4-6e329508c24f")
-		(property "Reference" "MX60"
+		(property "Reference" "MX?"
 			(at 43.18 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3929,7 +3929,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX60")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -3947,7 +3947,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "042d2ae1-f0cb-4224-907d-71889ab11ed5")
-		(property "Reference" "D4"
+		(property "Reference" "D?"
 			(at 82.55 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4033,7 +4033,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D4")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4051,7 +4051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "04a196f6-2a9b-4b42-8f67-d5162c5a806c")
-		(property "Reference" "MX79"
+		(property "Reference" "MX?"
 			(at 157.48 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4113,7 +4113,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX79")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -4131,7 +4131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06a59cfb-7a1c-4178-85b2-6ef88828e2fa")
-		(property "Reference" "D37"
+		(property "Reference" "D?"
 			(at 116.84 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4217,7 +4217,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D37")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4235,7 +4235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07fee6f4-bb44-477f-b3b0-755a610e7022")
-		(property "Reference" "D59"
+		(property "Reference" "D?"
 			(at 208.28 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4321,7 +4321,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D59")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4339,7 +4339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0923ca36-a3db-4148-9e2c-effa968cae7d")
-		(property "Reference" "MX65"
+		(property "Reference" "MX?"
 			(at 100.33 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4401,7 +4401,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX65")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -4419,7 +4419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a0e4fc9-4645-43e5-809c-8ffab511fecd")
-		(property "Reference" "D68"
+		(property "Reference" "D?"
 			(at 139.7 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4505,7 +4505,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D68")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4523,7 +4523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0a7ad3ed-39e3-4aed-a484-5ad979aca031")
-		(property "Reference" "MX45"
+		(property "Reference" "MX?"
 			(at 203.2 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4585,7 +4585,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX45")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -4603,7 +4603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0be7ae5a-c98a-42ab-b4ac-288c325685d5")
-		(property "Reference" "MX22"
+		(property "Reference" "MX?"
 			(at 111.76 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4665,7 +4665,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX22")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -4683,7 +4683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0e781b89-e1a1-4a62-923a-0d9922e89187")
-		(property "Reference" "D41"
+		(property "Reference" "D?"
 			(at 162.56 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4769,7 +4769,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D41")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4787,7 +4787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f1cc136-4cfa-4c31-b30b-198d1b62c231")
-		(property "Reference" "D17"
+		(property "Reference" "D?"
 			(at 59.69 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4873,7 +4873,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D17")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4891,7 +4891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "147b32a7-90ef-478e-8878-dca2213a336b")
-		(property "Reference" "D35"
+		(property "Reference" "D?"
 			(at 93.98 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4977,7 +4977,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D35")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -4995,7 +4995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "14865b98-51a3-4c30-aa59-4dec1d64ed79")
-		(property "Reference" "D34"
+		(property "Reference" "D?"
 			(at 82.55 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5081,7 +5081,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D34")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -5099,7 +5099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "16363195-19e3-465a-a8a2-eb5e64214ea0")
-		(property "Reference" "D3"
+		(property "Reference" "D?"
 			(at 71.12 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5185,7 +5185,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D3")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -5203,7 +5203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "192b29a5-a556-4e95-a7fc-5b506671ac20")
-		(property "Reference" "MX26"
+		(property "Reference" "MX?"
 			(at 157.48 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5265,7 +5265,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX26")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5283,7 +5283,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b43b02b-597e-40e9-a3e1-92031387835f")
-		(property "Reference" "MX37"
+		(property "Reference" "MX?"
 			(at 111.76 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5345,7 +5345,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX37")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5363,7 +5363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d5e1b4a-97bb-4b67-b8f1-42154a97fb69")
-		(property "Reference" "MX6"
+		(property "Reference" "MX?"
 			(at 100.33 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5425,7 +5425,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX6")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5443,7 +5443,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2039301b-d211-4cd1-8de0-0adbf57a84ac")
-		(property "Reference" "D16"
+		(property "Reference" "D?"
 			(at 48.26 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5529,7 +5529,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D16")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -5547,7 +5547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "205878c6-3832-49cf-8b69-84b689a9e32c")
-		(property "Reference" "D46"
+		(property "Reference" "D?"
 			(at 48.26 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5633,7 +5633,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D46")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -5651,7 +5651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21d405af-9927-4dfb-af9c-cf63c3b14ed8")
-		(property "Reference" "MX43"
+		(property "Reference" "MX?"
 			(at 180.34 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5713,7 +5713,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX43")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5731,7 +5731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "22c9465e-13c4-4774-81a4-a09927ab360c")
-		(property "Reference" "D67"
+		(property "Reference" "D?"
 			(at 128.27 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5817,7 +5817,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D67")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -5835,7 +5835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "26d5f6d7-dfab-4310-8d3b-ea325e096af6")
-		(property "Reference" "MX68"
+		(property "Reference" "MX?"
 			(at 134.62 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5897,7 +5897,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX68")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5915,7 +5915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "293c118e-ed42-491d-808c-3233b4842e44")
-		(property "Reference" "MX38"
+		(property "Reference" "MX?"
 			(at 123.19 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5977,7 +5977,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX38")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -5995,7 +5995,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "29fc4097-3a8a-44e6-86f6-0a615193c380")
-		(property "Reference" "MX18"
+		(property "Reference" "MX?"
 			(at 66.04 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6057,7 +6057,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX18")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6075,7 +6075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a5559f8-0e65-4575-81ea-5ba21bede6b3")
-		(property "Reference" "MX49"
+		(property "Reference" "MX?"
 			(at 77.47 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6137,7 +6137,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX49")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6155,7 +6155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a9badb3-4d77-44d4-9b87-d7d59327d8b9")
-		(property "Reference" "D32"
+		(property "Reference" "D?"
 			(at 59.69 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6241,7 +6241,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D32")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -6259,7 +6259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dc6de60-e94e-4512-86ad-82af21da7cae")
-		(property "Reference" "D57"
+		(property "Reference" "D?"
 			(at 173.99 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6345,7 +6345,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D57")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -6363,7 +6363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31646800-1f21-4887-ab28-08e8517f0e0c")
-		(property "Reference" "D75"
+		(property "Reference" "D?"
 			(at 59.69 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6449,7 +6449,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D75")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -6467,7 +6467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "33b44ca9-3bd7-424c-88ec-e7a8ce5e6674")
-		(property "Reference" "MX74"
+		(property "Reference" "MX?"
 			(at 43.18 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6529,7 +6529,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX74")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6547,7 +6547,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "344dd384-41cd-4f60-9c3f-eeac7a2d1783")
-		(property "Reference" "MX75"
+		(property "Reference" "MX?"
 			(at 54.61 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6609,7 +6609,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX75")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6627,7 +6627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "347d1b25-209b-40b9-8123-6825f1d00155")
-		(property "Reference" "D1"
+		(property "Reference" "D?"
 			(at 48.26 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6713,7 +6713,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D1")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -6731,7 +6731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "347ebb0e-32f5-4a96-a827-b5b326027cf9")
-		(property "Reference" "MX15"
+		(property "Reference" "MX?"
 			(at 203.2 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6793,7 +6793,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX15")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6811,7 +6811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34c965a3-1395-4152-bd5e-59e38f77e13e")
-		(property "Reference" "MX20"
+		(property "Reference" "MX?"
 			(at 88.9 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6873,7 +6873,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX20")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6891,7 +6891,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34e6fe8b-4ebc-4866-9839-4b5d77add65c")
-		(property "Reference" "MX73"
+		(property "Reference" "MX?"
 			(at 203.2 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6953,7 +6953,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX73")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -6971,7 +6971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35b4dcf5-e814-4e26-ad2e-9c51ae3b8d12")
-		(property "Reference" "MX39"
+		(property "Reference" "MX?"
 			(at 134.62 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7033,7 +7033,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX39")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7051,7 +7051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "391f8110-764c-47e4-907c-1752701332b6")
-		(property "Reference" "MX9"
+		(property "Reference" "MX?"
 			(at 134.62 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7113,7 +7113,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX9")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7131,7 +7131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c07254a-2a84-4c99-8145-d352177d2ea6")
-		(property "Reference" "D65"
+		(property "Reference" "D?"
 			(at 105.41 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7217,7 +7217,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D65")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -7235,7 +7235,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3d54993d-e49a-4da1-b9b1-044004f9b857")
-		(property "Reference" "D61"
+		(property "Reference" "D?"
 			(at 59.69 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7321,7 +7321,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D61")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -7339,7 +7339,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3de0bca0-329b-4a6d-b659-db4ad054a55f")
-		(property "Reference" "MX61"
+		(property "Reference" "MX?"
 			(at 54.61 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7401,7 +7401,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX61")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7419,7 +7419,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3eecf8b5-14a0-4f95-abf6-9e2b44b9dbd9")
-		(property "Reference" "D25"
+		(property "Reference" "D?"
 			(at 151.13 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7505,7 +7505,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D25")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -7523,7 +7523,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f35ffa8-8c35-4bbd-83ed-f5f722a17d19")
-		(property "Reference" "MX35"
+		(property "Reference" "MX?"
 			(at 88.9 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7585,7 +7585,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX35")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7603,7 +7603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "421302b9-0749-4dfb-b593-ad98e0c3db89")
-		(property "Reference" "MX17"
+		(property "Reference" "MX?"
 			(at 54.61 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7665,7 +7665,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX17")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7683,7 +7683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4306409a-586e-4fe1-ba81-9dfee4b7783b")
-		(property "Reference" "MX8"
+		(property "Reference" "MX?"
 			(at 123.19 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7745,7 +7745,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX8")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -7763,7 +7763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44fa012a-75bd-4475-8334-500429de1c14")
-		(property "Reference" "D31"
+		(property "Reference" "D?"
 			(at 48.26 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7849,7 +7849,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D31")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -7867,7 +7867,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "462d785e-5b86-419d-b04f-c27a962f65af")
-		(property "Reference" "D18"
+		(property "Reference" "D?"
 			(at 71.12 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7953,7 +7953,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D18")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -7971,7 +7971,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4745596b-ade3-4a45-a9c9-96577c025787")
-		(property "Reference" "D38"
+		(property "Reference" "D?"
 			(at 128.27 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8057,7 +8057,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D38")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8075,7 +8075,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48fa01c6-2771-4468-8044-f042910bede7")
-		(property "Reference" "D14"
+		(property "Reference" "D?"
 			(at 196.85 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8161,7 +8161,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D14")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8179,7 +8179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4af20a12-6966-42e5-920f-90691ff6937f")
-		(property "Reference" "MX28"
+		(property "Reference" "MX?"
 			(at 180.34 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8241,7 +8241,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX28")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -8259,7 +8259,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4be0bec6-957f-488e-81c4-cae38326339b")
-		(property "Reference" "D54"
+		(property "Reference" "D?"
 			(at 139.7 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8345,7 +8345,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D54")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8363,7 +8363,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e7b53c2-d645-4911-bfe8-d9a8864615a7")
-		(property "Reference" "D19"
+		(property "Reference" "D?"
 			(at 82.55 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8449,7 +8449,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D19")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8467,7 +8467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f5a9f15-9dcc-42a8-904c-b091cd7134a9")
-		(property "Reference" "D55"
+		(property "Reference" "D?"
 			(at 151.13 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8553,7 +8553,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D55")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8571,7 +8571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "52357eb5-710f-4d47-98b7-43f3247ea1e2")
-		(property "Reference" "MX19"
+		(property "Reference" "MX?"
 			(at 77.47 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8633,7 +8633,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX19")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -8651,7 +8651,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "531744ca-a839-4193-969f-abeda513a7f8")
-		(property "Reference" "MX62"
+		(property "Reference" "MX?"
 			(at 66.04 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8713,7 +8713,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX62")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -8731,7 +8731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53395d19-1452-4cad-8d87-f24f984421a2")
-		(property "Reference" "MX55"
+		(property "Reference" "MX?"
 			(at 146.05 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8793,7 +8793,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX55")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -8811,7 +8811,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5419ad4e-b697-4ace-8114-d3a08c52c5bf")
-		(property "Reference" "D69"
+		(property "Reference" "D?"
 			(at 151.13 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8897,7 +8897,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D69")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -8915,7 +8915,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "56da6bb2-5e96-4e56-8c95-9a91ed5bea69")
-		(property "Reference" "D12"
+		(property "Reference" "D?"
 			(at 173.99 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9001,7 +9001,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D12")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9019,7 +9019,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57cb405e-b143-46fa-856c-e19b02636979")
-		(property "Reference" "D40"
+		(property "Reference" "D?"
 			(at 151.13 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9105,7 +9105,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D40")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9123,7 +9123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59114a77-436f-4a11-9c95-6afac4a175da")
-		(property "Reference" "D30"
+		(property "Reference" "D?"
 			(at 208.28 67.2605 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9209,7 +9209,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D30")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9227,7 +9227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5af6bb2d-ff0f-4502-ba76-d2db588c5769")
-		(property "Reference" "MX58"
+		(property "Reference" "MX?"
 			(at 180.34 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9289,7 +9289,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX58")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -9307,7 +9307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c811bd6-58e1-4134-bfd0-c949d578398c")
-		(property "Reference" "D2"
+		(property "Reference" "D?"
 			(at 59.69 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9393,7 +9393,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D2")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9411,7 +9411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d0eacc0-b275-490b-a5d0-0cff0a81d226")
-		(property "Reference" "D49"
+		(property "Reference" "D?"
 			(at 82.55 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9497,7 +9497,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D49")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9515,7 +9515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6024f8be-774a-434b-9741-c07640529e5a")
-		(property "Reference" "MX76"
+		(property "Reference" "MX?"
 			(at 66.04 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9577,7 +9577,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX76")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -9595,7 +9595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "604aa346-5425-4592-a45d-fdd672334e5a")
-		(property "Reference" "MX4"
+		(property "Reference" "MX?"
 			(at 77.47 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9657,7 +9657,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX4")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -9675,7 +9675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "62129d4c-16f8-472e-bf1b-fd13a58c6af7")
-		(property "Reference" "MX66"
+		(property "Reference" "MX?"
 			(at 111.76 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9737,7 +9737,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX66")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -9755,7 +9755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "627cfa82-5a99-419a-ba5d-ac7830ad5566")
-		(property "Reference" "D48"
+		(property "Reference" "D?"
 			(at 71.12 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9841,7 +9841,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D48")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9859,7 +9859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6369c82a-8b90-421c-8408-ffd1d86f5dd5")
-		(property "Reference" "D70"
+		(property "Reference" "D?"
 			(at 162.56 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9945,7 +9945,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D70")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -9963,7 +9963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66e1ee16-5bc6-4b2e-99bb-9664fdf3b460")
-		(property "Reference" "MX10"
+		(property "Reference" "MX?"
 			(at 146.05 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10025,7 +10025,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX10")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10043,7 +10043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f184a9d-c96f-488d-8424-d662220aaf4a")
-		(property "Reference" "MX33"
+		(property "Reference" "MX?"
 			(at 66.04 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10105,7 +10105,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX33")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10123,7 +10123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f2d7569-5ae8-4828-be48-8bdd52e73b70")
-		(property "Reference" "D82"
+		(property "Reference" "D?"
 			(at 208.28 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10209,7 +10209,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D82")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -10227,7 +10227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6f92ca06-cf77-4ae3-b713-18719e5f4218")
-		(property "Reference" "MX36"
+		(property "Reference" "MX?"
 			(at 100.33 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10289,7 +10289,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX36")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10307,7 +10307,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70fa9d70-c067-4697-933b-a0c8f87db986")
-		(property "Reference" "MX67"
+		(property "Reference" "MX?"
 			(at 123.19 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10369,7 +10369,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX67")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10387,7 +10387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72751b1c-3fe0-4664-b4b1-48a9a7799548")
-		(property "Reference" "MX69"
+		(property "Reference" "MX?"
 			(at 146.05 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10449,7 +10449,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX69")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10467,7 +10467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73418119-e1aa-4c44-8a0a-a86acb00920a")
-		(property "Reference" "D44"
+		(property "Reference" "D?"
 			(at 196.85 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10553,7 +10553,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D44")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -10571,7 +10571,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74daaeab-fda5-43e0-bcff-7db4393ac1cb")
-		(property "Reference" "D50"
+		(property "Reference" "D?"
 			(at 93.98 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10657,7 +10657,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D50")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -10675,7 +10675,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74e06c66-0eac-4d6d-affc-c6a91fdb70d7")
-		(property "Reference" "D36"
+		(property "Reference" "D?"
 			(at 105.41 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10761,7 +10761,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D36")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -10779,7 +10779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "753075f1-ddee-420d-b8f7-cf125a128362")
-		(property "Reference" "MX31"
+		(property "Reference" "MX?"
 			(at 43.18 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10841,7 +10841,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX31")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -10859,7 +10859,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7746a720-7bfa-4e6f-bad7-13398e797c08")
-		(property "Reference" "D80"
+		(property "Reference" "D?"
 			(at 173.99 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10945,7 +10945,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D80")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -10963,7 +10963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ad9dd4d-b96e-4f4d-8d31-d3191754a61e")
-		(property "Reference" "MX24"
+		(property "Reference" "MX?"
 			(at 134.62 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11025,7 +11025,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX24")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -11043,7 +11043,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bfbdc23-7c95-42cc-8a02-b86e89e854b2")
-		(property "Reference" "MX3"
+		(property "Reference" "MX?"
 			(at 66.04 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11105,7 +11105,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX3")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -11123,7 +11123,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "81ee8b22-bd0b-4892-9dcd-5b53a11208d0")
-		(property "Reference" "D72"
+		(property "Reference" "D?"
 			(at 185.42 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11209,7 +11209,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D72")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11227,7 +11227,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "82e59697-62de-41d6-aa1a-f863164964e5")
-		(property "Reference" "D81"
+		(property "Reference" "D?"
 			(at 185.42 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11313,7 +11313,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D81")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11331,7 +11331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86bd97e7-1c58-44d7-a81f-fc1b74a080a7")
-		(property "Reference" "D43"
+		(property "Reference" "D?"
 			(at 185.42 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11417,7 +11417,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D43")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11435,7 +11435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "882c55a4-fef3-45cd-a4b9-922c691e8e11")
-		(property "Reference" "MX23"
+		(property "Reference" "MX?"
 			(at 123.19 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11497,7 +11497,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX23")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -11515,7 +11515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88364fb4-ec4c-4ba9-a434-037722f6fe54")
-		(property "Reference" "D9"
+		(property "Reference" "D?"
 			(at 139.7 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11601,7 +11601,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D9")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11619,7 +11619,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a089eca-3864-45d7-b0d1-4aae19f61125")
-		(property "Reference" "MX63"
+		(property "Reference" "MX?"
 			(at 77.47 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11681,7 +11681,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX63")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -11699,7 +11699,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a584a89-52de-4176-b1b2-edeba4a86be8")
-		(property "Reference" "D73"
+		(property "Reference" "D?"
 			(at 208.28 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11785,7 +11785,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D73")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11803,7 +11803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9032ca15-cb6e-4a75-9619-bce0e91320ff")
-		(property "Reference" "D63"
+		(property "Reference" "D?"
 			(at 82.55 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11889,7 +11889,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D63")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -11907,7 +11907,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92b8083e-4247-44ee-aecc-a5f2fc3b3d6b")
-		(property "Reference" "D21"
+		(property "Reference" "D?"
 			(at 105.41 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11993,7 +11993,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D21")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12011,7 +12011,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "92c32ab1-8cef-46d5-a533-c1c112ff82a9")
-		(property "Reference" "MX80"
+		(property "Reference" "MX?"
 			(at 168.91 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12073,7 +12073,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX80")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -12091,7 +12091,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "95fa6b6f-76c3-40fa-8979-6e8410f9586c")
-		(property "Reference" "D20"
+		(property "Reference" "D?"
 			(at 93.98 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12177,7 +12177,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D20")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12195,7 +12195,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9893f273-1bc9-497b-bac7-ca2532edeab4")
-		(property "Reference" "D6"
+		(property "Reference" "D?"
 			(at 105.41 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12281,7 +12281,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D6")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12299,7 +12299,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b291826-9134-4ab7-87e4-e1096ce038f3")
-		(property "Reference" "D28"
+		(property "Reference" "D?"
 			(at 185.42 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12385,7 +12385,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D28")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12403,7 +12403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b56b6ae-4d15-4524-a9b7-b634aa9e7a77")
-		(property "Reference" "D39"
+		(property "Reference" "D?"
 			(at 139.7 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12489,7 +12489,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D39")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12507,7 +12507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0e078fe-c64b-4375-86da-fd32fc159693")
-		(property "Reference" "MX13"
+		(property "Reference" "MX?"
 			(at 180.34 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12569,7 +12569,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX13")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -12587,7 +12587,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a206148d-4885-48a3-babe-e525ff748d89")
-		(property "Reference" "D10"
+		(property "Reference" "D?"
 			(at 151.13 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12673,7 +12673,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D10")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12691,7 +12691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2b48d1e-f0d8-45ec-ae2c-ace7cacdf713")
-		(property "Reference" "D7"
+		(property "Reference" "D?"
 			(at 116.84 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12777,7 +12777,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D7")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12795,7 +12795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2d0b1ac-3f12-444e-bd31-891a81ff7034")
-		(property "Reference" "D56"
+		(property "Reference" "D?"
 			(at 162.56 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12881,7 +12881,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D56")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -12899,7 +12899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a496fb9d-2fd0-4ead-b38d-ecacb84ecdac")
-		(property "Reference" "MX41"
+		(property "Reference" "MX?"
 			(at 157.48 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12961,7 +12961,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX41")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -12979,7 +12979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a51dbd92-b1e3-462e-bdd2-9152972ec7ac")
-		(property "Reference" "D27"
+		(property "Reference" "D?"
 			(at 173.99 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13065,7 +13065,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D27")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -13083,7 +13083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6b3d014-92a5-46e9-b4a4-d087b7871b37")
-		(property "Reference" "MX72"
+		(property "Reference" "MX?"
 			(at 180.34 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13145,7 +13145,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX72")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13163,7 +13163,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a6c1581a-1489-4ef0-89a9-02d0ff3cd83d")
-		(property "Reference" "MX12"
+		(property "Reference" "MX?"
 			(at 168.91 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13225,7 +13225,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX12")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13243,7 +13243,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a74ad6cb-0e1a-4917-81cf-f57e040c2358")
-		(property "Reference" "MX27"
+		(property "Reference" "MX?"
 			(at 168.91 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13305,7 +13305,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX27")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13323,7 +13323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a77ee524-875b-46b0-945e-0638bc62d777")
-		(property "Reference" "D51"
+		(property "Reference" "D?"
 			(at 105.41 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13409,7 +13409,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D51")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -13427,7 +13427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7e55fe8-a609-4aab-96eb-489cff0d45e9")
-		(property "Reference" "MX1"
+		(property "Reference" "MX?"
 			(at 43.18 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13489,7 +13489,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX1")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13507,7 +13507,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a843d0ab-c131-4d93-9208-011690e0d2dd")
-		(property "Reference" "D62"
+		(property "Reference" "D?"
 			(at 71.12 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13593,7 +13593,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D62")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -13611,7 +13611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aa84363e-2762-42aa-8e9c-8bcdea347eda")
-		(property "Reference" "D77"
+		(property "Reference" "D?"
 			(at 116.84 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13697,7 +13697,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D77")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -13715,7 +13715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab1b9778-2616-4847-a176-3bd1e3a3ab2b")
-		(property "Reference" "D78"
+		(property "Reference" "D?"
 			(at 151.13 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13801,7 +13801,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D78")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -13819,7 +13819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acd366db-1879-436d-a226-0200296cf12a")
-		(property "Reference" "MX7"
+		(property "Reference" "MX?"
 			(at 111.76 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13881,7 +13881,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX7")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13899,7 +13899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad077fc8-f1c7-4396-87cb-11196efe6887")
-		(property "Reference" "MX32"
+		(property "Reference" "MX?"
 			(at 54.61 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13961,7 +13961,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX32")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -13979,7 +13979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad273be1-7d2d-47dc-82d0-cd4e684474a9")
-		(property "Reference" "D66"
+		(property "Reference" "D?"
 			(at 116.84 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14065,7 +14065,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D66")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14083,7 +14083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad707bef-8f92-466a-ba46-567850182039")
-		(property "Reference" "D26"
+		(property "Reference" "D?"
 			(at 162.56 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14169,7 +14169,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D26")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14187,7 +14187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae51c6c1-57c0-46fe-9d9b-a66cfc46b404")
-		(property "Reference" "D23"
+		(property "Reference" "D?"
 			(at 128.27 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14273,7 +14273,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D23")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14291,7 +14291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b08af012-47bf-4127-9a23-076581374edb")
-		(property "Reference" "D76"
+		(property "Reference" "D?"
 			(at 71.12 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14377,7 +14377,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D76")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14395,7 +14395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b288653c-aac0-4532-ac10-9de20888acfe")
-		(property "Reference" "D74"
+		(property "Reference" "D?"
 			(at 48.26 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14481,7 +14481,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D74")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14499,7 +14499,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b2e58453-1ba1-420e-8608-78dfb6802c69")
-		(property "Reference" "MX48"
+		(property "Reference" "MX?"
 			(at 66.04 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14561,7 +14561,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX48")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -14579,7 +14579,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6d6b270-5e35-493b-aa43-569da4d22c38")
-		(property "Reference" "MX57"
+		(property "Reference" "MX?"
 			(at 168.91 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14641,7 +14641,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX57")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -14659,7 +14659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b88a65b7-9465-4ef9-b15e-3336980d3751")
-		(property "Reference" "D53"
+		(property "Reference" "D?"
 			(at 128.27 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14745,7 +14745,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D53")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -14763,7 +14763,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba9a4789-8e26-4616-9495-25b5eeda2833")
-		(property "Reference" "MX40"
+		(property "Reference" "MX?"
 			(at 146.05 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14825,7 +14825,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX40")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -14843,7 +14843,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb2280b7-074e-46b2-ade1-9361bcd753b1")
-		(property "Reference" "MX11"
+		(property "Reference" "MX?"
 			(at 157.48 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14905,7 +14905,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX11")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -14923,7 +14923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bcfdb705-08af-4eae-bc9d-7888fa310037")
-		(property "Reference" "MX71"
+		(property "Reference" "MX?"
 			(at 168.91 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14985,7 +14985,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX71")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15003,7 +15003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd9c6c33-3dc2-4280-9e22-2047c0fe2fbc")
-		(property "Reference" "D71"
+		(property "Reference" "D?"
 			(at 173.99 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15089,7 +15089,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D71")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -15107,7 +15107,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c00a14a3-39f7-475e-b11a-42df59626466")
-		(property "Reference" "MX30"
+		(property "Reference" "MX?"
 			(at 203.2 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15169,7 +15169,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX30")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15187,7 +15187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c18bc839-86c3-4afd-83c5-5c542ae12ebd")
-		(property "Reference" "MX44"
+		(property "Reference" "MX?"
 			(at 191.77 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15249,7 +15249,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX44")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15267,7 +15267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c38c5ee8-0d93-4a00-9e0c-528b34380cce")
-		(property "Reference" "D64"
+		(property "Reference" "D?"
 			(at 93.98 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15353,7 +15353,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D64")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -15371,7 +15371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c4b79345-322e-4fba-a6a2-da5631b81579")
-		(property "Reference" "MX53"
+		(property "Reference" "MX?"
 			(at 123.19 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15433,7 +15433,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX53")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15451,7 +15451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c7690475-ccaa-4a96-b83b-3da92328bbd7")
-		(property "Reference" "MX5"
+		(property "Reference" "MX?"
 			(at 88.9 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15513,7 +15513,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX5")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15531,7 +15531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb7375a7-fb1e-4784-8e18-e822b2feae8d")
-		(property "Reference" "D5"
+		(property "Reference" "D?"
 			(at 93.98 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15617,7 +15617,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D5")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -15635,7 +15635,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc5ff175-fcb8-4936-928f-6534b76cfb46")
-		(property "Reference" "D29"
+		(property "Reference" "D?"
 			(at 196.85 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15721,7 +15721,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D29")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -15739,7 +15739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd5d14f8-7cdd-4255-a063-49375ec488fc")
-		(property "Reference" "MX14"
+		(property "Reference" "MX?"
 			(at 191.77 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15801,7 +15801,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX14")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -15819,7 +15819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ceb96afc-ed9f-40b2-96c3-3b891da61715")
-		(property "Reference" "D52"
+		(property "Reference" "D?"
 			(at 116.84 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15905,7 +15905,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D52")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -15923,7 +15923,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf5da499-ba52-4305-98ea-d2923e222941")
-		(property "Reference" "D22"
+		(property "Reference" "D?"
 			(at 116.84 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16009,7 +16009,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D22")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -16027,7 +16027,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d455e3c3-ef8f-45c8-b9e6-0d0343e3a967")
-		(property "Reference" "D13"
+		(property "Reference" "D?"
 			(at 185.42 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16113,7 +16113,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D13")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -16131,7 +16131,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d65d1fd4-77f7-4181-8a27-382d81eb7937")
-		(property "Reference" "MX54"
+		(property "Reference" "MX?"
 			(at 134.62 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16193,7 +16193,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX54")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16211,7 +16211,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6f3b90b-ee7b-4442-a72d-1cb42d9265e4")
-		(property "Reference" "MX78"
+		(property "Reference" "MX?"
 			(at 146.05 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16273,7 +16273,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX78")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16291,7 +16291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d7f38378-bbe1-47cf-9224-37d67b807678")
-		(property "Reference" "MX25"
+		(property "Reference" "MX?"
 			(at 146.05 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16353,7 +16353,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX25")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16371,7 +16371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8160120-ede9-49ee-ac87-5c1ebfaa8a7c")
-		(property "Reference" "MX51"
+		(property "Reference" "MX?"
 			(at 100.33 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16433,7 +16433,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX51")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16451,7 +16451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d98a3e73-fd52-4f26-8c61-13f5ae886c67")
-		(property "Reference" "MX77"
+		(property "Reference" "MX?"
 			(at 111.76 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16513,7 +16513,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX77")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16531,7 +16531,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db6b0b91-114e-4fce-bfdb-f762052365fd")
-		(property "Reference" "MX50"
+		(property "Reference" "MX?"
 			(at 88.9 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16593,7 +16593,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX50")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16611,7 +16611,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db93ce6b-bf97-4a38-99a8-8a5c20612aa2")
-		(property "Reference" "MX59"
+		(property "Reference" "MX?"
 			(at 203.2 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16673,7 +16673,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX59")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16691,7 +16691,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "de4cac3b-c78b-45b4-a28e-f0059624be7f")
-		(property "Reference" "D79"
+		(property "Reference" "D?"
 			(at 162.56 168.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16777,7 +16777,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D79")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -16795,7 +16795,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0b0405e-b750-485c-87e0-bbba361420c4")
-		(property "Reference" "D15"
+		(property "Reference" "D?"
 			(at 208.28 41.8605 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16881,7 +16881,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D15")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -16899,7 +16899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6ade18a-dc4b-498b-8f92-f2b10bd7a81f")
-		(property "Reference" "MX47"
+		(property "Reference" "MX?"
 			(at 54.61 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16961,7 +16961,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX47")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -16979,7 +16979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e881051e-4d6a-44e0-99c8-4861452473f8")
-		(property "Reference" "D45"
+		(property "Reference" "D?"
 			(at 208.28 92.6605 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17065,7 +17065,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D45")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -17083,7 +17083,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e9fce20e-eb5b-4e48-b223-361a6358eeb4")
-		(property "Reference" "D47"
+		(property "Reference" "D?"
 			(at 59.69 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17169,7 +17169,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D47")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -17187,7 +17187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ed7d9ada-a9a3-40ef-8576-d590d5010099")
-		(property "Reference" "MX42"
+		(property "Reference" "MX?"
 			(at 168.91 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17249,7 +17249,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX42")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17267,7 +17267,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f2602f04-a7af-436b-b31d-793676f47d61")
-		(property "Reference" "D11"
+		(property "Reference" "D?"
 			(at 162.56 41.9099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17353,7 +17353,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D11")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -17371,7 +17371,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f410fb17-69ed-48d9-979d-21a7b1a91c93")
-		(property "Reference" "MX29"
+		(property "Reference" "MX?"
 			(at 191.77 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17433,7 +17433,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX29")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17451,7 +17451,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f48e79cf-3c75-4ada-8878-c652a5556fc2")
-		(property "Reference" "D60"
+		(property "Reference" "D?"
 			(at 48.26 143.5099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17537,7 +17537,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D60")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -17555,7 +17555,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f51a1ff1-0e6a-49e0-896f-bbe4cac07cff")
-		(property "Reference" "D58"
+		(property "Reference" "D?"
 			(at 185.42 118.1099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17641,7 +17641,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D58")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -17659,7 +17659,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f56d8abf-4538-46fd-b83c-149fb509a3e0")
-		(property "Reference" "MX21"
+		(property "Reference" "MX?"
 			(at 100.33 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17721,7 +17721,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX21")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17739,7 +17739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f654732b-7510-4a49-b7d0-20afbac993df")
-		(property "Reference" "MX46"
+		(property "Reference" "MX?"
 			(at 43.18 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17801,7 +17801,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX46")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17819,7 +17819,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f6cc6f3d-cd6c-460b-bf5e-4c91659c2425")
-		(property "Reference" "MX52"
+		(property "Reference" "MX?"
 			(at 111.76 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17881,7 +17881,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX52")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17899,7 +17899,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f710cd31-3b80-402e-b7fd-62358403ec32")
-		(property "Reference" "MX64"
+		(property "Reference" "MX?"
 			(at 88.9 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17961,7 +17961,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX64")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -17979,7 +17979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8145413-ced5-42b7-adb4-29519eb0b3fc")
-		(property "Reference" "MX70"
+		(property "Reference" "MX?"
 			(at 157.48 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18041,7 +18041,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX70")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -18059,7 +18059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb82dd04-721f-49f7-ba96-5fbcfabbe689")
-		(property "Reference" "MX81"
+		(property "Reference" "MX?"
 			(at 180.34 156.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18121,7 +18121,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX81")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -18139,7 +18139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc64ac3b-67f1-48f8-940c-26fa0c268769")
-		(property "Reference" "MX16"
+		(property "Reference" "MX?"
 			(at 43.18 54.61 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18201,7 +18201,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX16")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
@@ -18219,7 +18219,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd84d2a4-2349-480c-b75b-325b446bf3d7")
-		(property "Reference" "D24"
+		(property "Reference" "D?"
 			(at 139.7 67.3099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18305,7 +18305,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D24")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -18323,7 +18323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff4a10c7-c5d5-4c00-b48e-2da020c45233")
-		(property "Reference" "D33"
+		(property "Reference" "D?"
 			(at 71.12 92.7099 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18409,7 +18409,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "D33")
+					(reference "D?")
 					(unit 1)
 				)
 			)
@@ -18427,7 +18427,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ff65beb0-cdb8-43c7-8a1e-e99296e83004")
-		(property "Reference" "MX2"
+		(property "Reference" "MX?"
 			(at 54.61 29.21 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18489,7 +18489,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41/fb48e010-fe81-4ce1-bd24-1a8a2ae7e867"
-					(reference "MX2")
+					(reference "MX?")
 					(unit 1)
 				)
 			)
