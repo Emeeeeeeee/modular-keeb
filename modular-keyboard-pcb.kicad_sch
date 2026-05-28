@@ -1675,7 +1675,7 @@
 		)
 		(uuid "d104fe26-8ade-458b-9bcb-503c7ea03d31")
 	)
-	(global_label "Row 2"
+	(global_label "Col 2"
 		(shape input)
 		(at 31.75 41.91 180)
 		(fields_autoplaced yes)
@@ -1685,9 +1685,9 @@
 			)
 			(justify right)
 		)
-		(uuid "09c08f0b-d9de-4db8-854a-2c21dcde15d0")
+		(uuid "0ca1a239-b01f-4b41-bd98-dff91a3e8e11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 41.91 0)
+			(at 23.5035 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1723,7 +1723,31 @@
 			)
 		)
 	)
-	(global_label "Col 3"
+	(global_label "Col 6"
+		(shape input)
+		(at 31.75 52.07 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1921ed48-f405-43f5-af75-f933307f8862")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.5035 52.07 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "Col 8"
 		(shape input)
 		(at 69.85 39.37 0)
 		(fields_autoplaced yes)
@@ -1747,55 +1771,7 @@
 			)
 		)
 	)
-	(global_label "Col 8"
-		(shape input)
-		(at 31.75 52.07 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "271538b8-2554-4abe-95e9-c6562530f71a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.5035 52.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "Row 0"
-		(shape input)
-		(at 31.75 36.83 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2c479fb0-c162-4586-8a73-e85e2428ba5e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Col 4"
 		(shape input)
 		(at 69.85 41.91 0)
 		(fields_autoplaced yes)
@@ -1807,7 +1783,7 @@
 		)
 		(uuid "2db1e979-6804-4f9e-a4b8-a888bf85d068")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.0965 41.91 0)
+			(at 78.7618 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1819,7 +1795,7 @@
 			)
 		)
 	)
-	(global_label "Col 6"
+	(global_label "Row 2"
 		(shape input)
 		(at 69.85 46.99 0)
 		(fields_autoplaced yes)
@@ -1831,7 +1807,7 @@
 		)
 		(uuid "56cec581-1574-4f5f-ab8c-0423e5036ba4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.0965 46.99 0)
+			(at 78.7618 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1843,7 +1819,7 @@
 			)
 		)
 	)
-	(global_label "Col 7"
+	(global_label "Row 3"
 		(shape input)
 		(at 69.85 49.53 0)
 		(fields_autoplaced yes)
@@ -1855,7 +1831,7 @@
 		)
 		(uuid "62df759f-db7f-4475-a071-4f584f65d3c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.0965 49.53 0)
+			(at 78.7618 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1864,6 +1840,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "Col 0"
+		(shape input)
+		(at 31.75 36.83 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6a8e3699-086a-4981-bb68-5557fcb2f1fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.5035 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -1888,6 +1888,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "Row 5"
+		(shape input)
+		(at 69.85 54.61 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6f922a4f-8983-4ad8-a67d-63ca9a432a35")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 78.7618 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -1976,30 +2000,6 @@
 		(uuid "93cc6787-c445-49a1-af33-0eeae404b5eb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 23.5035 54.61 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Col 1"
-		(shape input)
-		(at 31.75 29.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "963a2117-5446-4c4b-827a-7e5e39acbebc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.5035 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2131,7 +2131,7 @@
 			)
 		)
 	)
-	(global_label "Col 2"
+	(global_label "Col 7"
 		(shape input)
 		(at 69.85 36.83 0)
 		(fields_autoplaced yes)
@@ -2152,6 +2152,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "Col 3"
+		(shape input)
+		(at 31.75 44.45 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a36f09c6-a3f8-4785-8757-89a66367fd77")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.5035 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
@@ -2179,7 +2203,7 @@
 			)
 		)
 	)
-	(global_label "Row 1"
+	(global_label "Col 1"
 		(shape input)
 		(at 31.75 39.37 180)
 		(fields_autoplaced yes)
@@ -2189,9 +2213,33 @@
 			)
 			(justify right)
 		)
-		(uuid "b34d482c-361d-4ade-87a3-5f2ac2d43eef")
+		(uuid "a6a8708c-0ee6-4e11-a4b1-fda1b45a86fb")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 39.37 0)
+			(at 23.5035 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "Col 4"
+		(shape input)
+		(at 31.75 46.99 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aeffd1bc-f916-4743-8861-02d8a4b42d0b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 23.5035 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2299,7 +2347,7 @@
 			)
 		)
 	)
-	(global_label "Row 5"
+	(global_label "Col 5"
 		(shape input)
 		(at 31.75 49.53 180)
 		(fields_autoplaced yes)
@@ -2309,9 +2357,9 @@
 			)
 			(justify right)
 		)
-		(uuid "ca690310-9c7f-40f9-bc24-e7a1f6dde404")
+		(uuid "d0624651-3eae-400a-a0c7-6f39747ffe25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 49.53 0)
+			(at 23.5035 49.53 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2371,31 +2419,7 @@
 			)
 		)
 	)
-	(global_label "Col 0"
-		(shape input)
-		(at 31.75 26.67 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e21549e0-2826-40a7-b4e2-b4d25d06c038")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 23.5035 26.67 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "Col 5"
+	(global_label "Row 1"
 		(shape input)
 		(at 69.85 44.45 0)
 		(fields_autoplaced yes)
@@ -2407,7 +2431,7 @@
 		)
 		(uuid "e271d422-ed50-4459-9cc9-80d8f0599d13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.0965 44.45 0)
+			(at 78.7618 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2443,43 +2467,19 @@
 			)
 		)
 	)
-	(global_label "Row 3"
-		(shape input)
-		(at 31.75 44.45 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f36cf153-e415-41b8-b221-9d9675cb93aa")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "Row 4"
 		(shape input)
-		(at 31.75 46.99 180)
+		(at 69.85 52.07 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "ff1afcc7-c28b-4926-b18b-52a6bb4c0209")
+		(uuid "eb5dd7ae-62a8-45bb-aa0b-53c4b3f78cb4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8382 46.99 0)
+			(at 78.7618 52.07 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2487,7 +2487,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 	)
@@ -2503,7 +2503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0763598d-2cf5-4502-bd53-d30f70b01805")
-		(property "Reference" "#PWR07"
+		(property "Reference" "#PWR08"
 			(at 69.85 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -2563,7 +2563,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR07")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -2579,10 +2579,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0c6768da-875c-4384-9c39-a7c08de9b786")
 		(property "Reference" "SW1"
-			(at 83.82 24.13 0)
+			(at 83.82 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2592,7 +2591,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 83.82 26.67 0)
+			(at 83.82 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2601,9 +2600,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 83.82 26.67 0)
-			(hide yes)
+		(property "Footprint" "SKQG-1155865"
+			(at 85.09 26.416 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2660,7 +2658,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0cc8fb9e-3d7f-4476-b8d8-e2ab420a34bd")
-		(property "Reference" "#PWR02"
+		(property "Reference" "#PWR01"
 			(at 19.05 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -2720,7 +2718,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR02")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -2830,7 +2828,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fd4d37c-3112-46be-be63-2b625113c41c")
-		(property "Reference" "#PWR06"
+		(property "Reference" "#PWR07"
 			(at 43.18 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -2890,7 +2888,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR06")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -2908,7 +2906,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "610777bc-0817-4a20-b4a2-dcedb7b4b7d7")
-		(property "Reference" "#PWR05"
+		(property "Reference" "#PWR06"
 			(at 59.69 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -2968,7 +2966,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR05")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -3161,7 +3159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "89787003-b0f1-44ec-b036-bae4aef3c5d4")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR04"
 			(at 35.56 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -3221,7 +3219,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR03")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -3238,7 +3236,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8fdff9b4-ab76-41fe-8abe-3ca2fbe65d83")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR02"
 			(at 88.9 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -3298,7 +3296,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR01")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -3409,7 +3407,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c3726d78-99d6-4189-ac64-9c210c45466b")
-		(property "Reference" "#PWR04"
+		(property "Reference" "#PWR05"
 			(at 53.34 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3469,7 +3467,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR04")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -3648,7 +3646,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dc2f33cc-2ff0-47e7-bdfd-f99124cf0161")
-		(property "Reference" "#PWR08"
+		(property "Reference" "#PWR03"
 			(at 22.86 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -3708,7 +3706,7 @@
 		(instances
 			(project "modular-keyboard-pcb"
 				(path "/13b88adc-33d4-45d0-92a6-4b62b9eedb41"
-					(reference "#PWR08")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
